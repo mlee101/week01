@@ -1,0 +1,11 @@
+1. review 
+ a. check out the github repo 'webpage', make some changes to index.html add a new file 'contact.html'. 
+  b. push the local repo to github, and use github pages to see te website.
+
+
+2. create a local repo 'ci01' and do codeigniter in it.
+   a. codeigniter basic   
+   b. Build A basic CodeIgniter site as week01
+
+3. push the ci01 repo to github 
+
